@@ -1,0 +1,1534 @@
+{
+  "ecommerceMetrics": [
+    {
+      "Month": "March",
+      "Year": 2024,
+      "Category": {
+        "Electronics": [
+          {
+            "Product": "Smartphone",
+            "UnitsSold": 130,
+            "Revenue": 1200,
+            "UserActivity": 4000
+          },
+          {
+            "Product": "Tablet",
+            "UnitsSold": 100,
+            "Revenue": 2000,
+            "UserActivity": 3000
+          },
+          {
+            "Product": "Television",
+            "UnitsSold": 90,
+            "Revenue": 4000,
+            "UserActivity": 2400
+          },
+          {
+            "Product": "Headphones",
+            "UnitsSold": 90,
+            "Revenue": 7000,
+            "UserActivity": 2100
+          },
+          {
+            "Product": "Laptop",
+            "UnitsSold": 100,
+            "Revenue": 900,
+            "UserActivity": 2700
+          }
+        ],
+        "Apparel": [
+          {
+            "Product": "Jeans",
+            "UnitsSold": 60,
+            "Revenue": 3000,
+            "UserActivity": 1800
+          },
+          {
+            "Product": "T-Shirt",
+            "UnitsSold": 90,
+            "Revenue": 4500,
+            "UserActivity": 2700
+          },
+          {
+            "Product": "Dress",
+            "UnitsSold": 80,
+            "Revenue": 4000,
+            "UserActivity": 2400
+          },
+          {
+            "Product": "Sweater",
+            "UnitsSold": 55,
+            "Revenue": 2600,
+            "UserActivity": 1650
+          },
+          {
+            "Product": "Jacket",
+            "UnitsSold": 50,
+            "Revenue": 2500,
+            "UserActivity": 1500
+          }
+        ],
+        "HomeGarden": [
+          {
+            "Product": "Curtains",
+            "UnitsSold": 30,
+            "Revenue": 3000,
+            "UserActivity": 900
+          },
+          {
+            "Product": "Table",
+            "UnitsSold": 40,
+            "Revenue": 4000,
+            "UserActivity": 1200
+          },
+          {
+            "Product": "Rug",
+            "UnitsSold": 20,
+            "Revenue": 2000,
+            "UserActivity": 600
+          },
+          {
+            "Product": "Lamp",
+            "UnitsSold": 35,
+            "Revenue": 3500,
+            "UserActivity": 1050
+          },
+          {
+            "Product": "Chair",
+            "UnitsSold": 25,
+            "Revenue": 2500,
+            "UserActivity": 750
+          }
+        ]
+      }
+    },
+    {
+      "Month": "Febraury",
+      "Year": 2024,
+      "Category": {
+        "Electronics": [
+          {
+            "Product": "Smartphone",
+            "UnitsSold": 160,
+            "Revenue": 14000,
+            "UserActivity": 4000
+          },
+          {
+            "Product": "Tablet",
+            "UnitsSold": 120,
+            "Revenue": 1000,
+            "UserActivity": 2400
+          },
+          {
+            "Product": "Television",
+            "UnitsSold": 100,
+            "Revenue": 9000,
+            "UserActivity": 2700
+          },
+          {
+            "Product": "Headphones",
+            "UnitsSold": 90,
+            "Revenue": 8000,
+            "UserActivity": 2400
+          },
+          {
+            "Product": "Laptop",
+            "UnitsSold": 110,
+            "Revenue": 10000,
+            "UserActivity": 3000
+          }
+        ],
+        "Apparel": [
+          {
+            "Product": "Jeans",
+            "UnitsSold": 70,
+            "Revenue": 7000,
+            "UserActivity": 2100
+          },
+          {
+            "Product": "T-Shirt",
+            "UnitsSold": 100,
+            "Revenue": 10000,
+            "UserActivity": 3000
+          },
+          {
+            "Product": "Dress",
+            "UnitsSold": 90,
+            "Revenue": 9000,
+            "UserActivity": 2700
+          },
+          {
+            "Product": "Sweater",
+            "UnitsSold": 65,
+            "Revenue": 6500,
+            "UserActivity": 1950
+          },
+          {
+            "Product": "Jacket",
+            "UnitsSold": 60,
+            "Revenue": 6000,
+            "UserActivity": 1800
+          }
+        ],
+        "HomeGarden": [
+          {
+            "Product": "Curtains",
+            "UnitsSold": 40,
+            "Revenue": 4000,
+            "UserActivity": 1200
+          },
+          {
+            "Product": "Table",
+            "UnitsSold": 50,
+            "Revenue": 5000,
+            "UserActivity": 1500
+          },
+          {
+            "Product": "Rug",
+            "UnitsSold": 25,
+            "Revenue": 2500,
+            "UserActivity": 750
+          },
+          {
+            "Product": "Lamp",
+            "UnitsSold": 45,
+            "Revenue": 4500,
+            "UserActivity": 1350
+          },
+          {
+            "Product": "Chair",
+            "UnitsSold": 35,
+            "Revenue": 3500,
+            "UserActivity": 1050
+          }
+        ]
+      }
+    },
+    {
+      "Month": "January",
+      "Year": 2024,
+      "Category": {
+        "Electronics": [
+          {
+            "Product": "Smartphone",
+            "UnitsSold": 220,
+            "Revenue": 18000,
+            "UserActivity": 6500
+          },
+          {
+            "Product": "Tablet",
+            "UnitsSold": 200,
+            "Revenue": 18000,
+            "UserActivity": 5400
+          },
+          {
+            "Product": "Television",
+            "UnitsSold": 140,
+            "Revenue": 12000,
+            "UserActivity": 3600
+          },
+          {
+            "Product": "Headphones",
+            "UnitsSold": 120,
+            "Revenue": 10000,
+            "UserActivity": 3000
+          },
+          {
+            "Product": "Laptop",
+            "UnitsSold": 90,
+            "Revenue": 11000,
+            "UserActivity": 3000
+          }
+        ],
+        "Apparel": [
+          {
+            "Product": "Jeans",
+            "UnitsSold": 100,
+            "Revenue": 10000,
+            "UserActivity": 3000
+          },
+          {
+            "Product": "T-Shirt",
+            "UnitsSold": 150,
+            "Revenue": 15000,
+            "UserActivity": 4500
+          },
+          {
+            "Product": "Dress",
+            "UnitsSold": 130,
+            "Revenue": 13000,
+            "UserActivity": 3900
+          },
+          {
+            "Product": "Sweater",
+            "UnitsSold": 90,
+            "Revenue": 9000,
+            "UserActivity": 2700
+          },
+          {
+            "Product": "Jacket",
+            "UnitsSold": 80,
+            "Revenue": 8000,
+            "UserActivity": 2400
+          }
+        ],
+        "HomeGarden": [
+          {
+            "Product": "Curtains",
+            "UnitsSold": 60,
+            "Revenue": 6000,
+            "UserActivity": 1800
+          },
+          {
+            "Product": "Table",
+            "UnitsSold": 70,
+            "Revenue": 7000,
+            "UserActivity": 2100
+          },
+          {
+            "Product": "Rug",
+            "UnitsSold": 50,
+            "Revenue": 5000,
+            "UserActivity": 1500
+          },
+          {
+            "Product": "Lamp",
+            "UnitsSold": 65,
+            "Revenue": 6500,
+            "UserActivity": 1950
+          },
+          {
+            "Product": "Chair",
+            "UnitsSold": 40,
+            "Revenue": 4000,
+            "UserActivity": 1200
+          }
+        ]
+      }
+    },
+    {
+      "Month": "December",
+      "Year": 2023,
+      "Category": {
+        "Electronics": [
+          {
+            "Product": "Smartphone",
+            "UnitsSold": 126,
+            "Revenue": 9500,
+            "UserActivity": 2700
+          },
+          {
+            "Product": "Tablet",
+            "UnitsSold": 110,
+            "Revenue": 10000,
+            "UserActivity": 3000
+          },
+          {
+            "Product": "Television",
+            "UnitsSold": 80,
+            "Revenue": 7000,
+            "UserActivity": 2100
+          },
+          {
+            "Product": "Headphones",
+            "UnitsSold": 70,
+            "Revenue": 6000,
+            "UserActivity": 1800
+          },
+          {
+            "Product": "Laptop",
+            "UnitsSold": 60,
+            "Revenue": 4000,
+            "UserActivity": 1700
+          }
+        ],
+        "Apparel": [
+          {
+            "Product": "Jeans",
+            "UnitsSold": 50,
+            "Revenue": 5000,
+            "UserActivity": 1500
+          },
+          {
+            "Product": "T-Shirt",
+            "UnitsSold": 70,
+            "Revenue": 7000,
+            "UserActivity": 2100
+          },
+          {
+            "Product": "Dress",
+            "UnitsSold": 60,
+            "Revenue": 6000,
+            "UserActivity": 1800
+          },
+          {
+            "Product": "Sweater",
+            "UnitsSold": 40,
+            "Revenue": 4000,
+            "UserActivity": 1200
+          },
+          {
+            "Product": "Jacket",
+            "UnitsSold": 30,
+            "Revenue": 3000,
+            "UserActivity": 900
+          }
+        ],
+        "HomeGarden": [
+          {
+            "Product": "Curtains",
+            "UnitsSold": 20,
+            "Revenue": 2000,
+            "UserActivity": 600
+          },
+          {
+            "Product": "Table",
+            "UnitsSold": 40,
+            "Revenue": 4000,
+            "UserActivity": 1200
+          },
+          {
+            "Product": "Rug",
+            "UnitsSold": 25,
+            "Revenue": 2500,
+            "UserActivity": 750
+          },
+          {
+            "Product": "Lamp",
+            "UnitsSold": 30,
+            "Revenue": 3000,
+            "UserActivity": 900
+          },
+          {
+            "Product": "Chair",
+            "UnitsSold": 15,
+            "Revenue": 1500,
+            "UserActivity": 450
+          }
+        ]
+      }
+    },
+    {
+      "Month": "November",
+      "Year": 2023,
+      "Category": {
+        "Electronics": [
+          {
+            "Product": "Smartphone",
+            "UnitsSold": 120,
+            "Revenue": 8800,
+            "UserActivity": 2800
+          },
+          {
+            "Product": "Tablet",
+            "UnitsSold": 70,
+            "Revenue": 6000,
+            "UserActivity": 2100
+          },
+          {
+            "Product": "Television",
+            "UnitsSold": 70,
+            "Revenue": 6000,
+            "UserActivity": 1800
+          },
+          {
+            "Product": "Headphones",
+            "UnitsSold": 60,
+            "Revenue": 5000,
+            "UserActivity": 1500
+          },
+          {
+            "Product": "Laptop",
+            "UnitsSold": 60,
+            "Revenue": 4000,
+            "UserActivity": 1700
+          }
+        ],
+        "Apparel": [
+          {
+            "Product": "Jeans",
+            "UnitsSold": 40,
+            "Revenue": 4000,
+            "UserActivity": 1200
+          },
+          {
+            "Product": "T-Shirt",
+            "UnitsSold": 60,
+            "Revenue": 6000,
+            "UserActivity": 1800
+          },
+          {
+            "Product": "Dress",
+            "UnitsSold": 50,
+            "Revenue": 5000,
+            "UserActivity": 1500
+          },
+          {
+            "Product": "Sweater",
+            "UnitsSold": 30,
+            "Revenue": 3000,
+            "UserActivity": 900
+          },
+          {
+            "Product": "Jacket",
+            "UnitsSold": 25,
+            "Revenue": 2500,
+            "UserActivity": 750
+          }
+        ],
+        "HomeGarden": [
+          {
+            "Product": "Curtains",
+            "UnitsSold": 15,
+            "Revenue": 1500,
+            "UserActivity": 450
+          },
+          {
+            "Product": "Table",
+            "UnitsSold": 30,
+            "Revenue": 3000,
+            "UserActivity": 900
+          },
+          {
+            "Product": "Rug",
+            "UnitsSold": 20,
+            "Revenue": 2000,
+            "UserActivity": 600
+          },
+          {
+            "Product": "Lamp",
+            "UnitsSold": 25,
+            "Revenue": 2500,
+            "UserActivity": 750
+          },
+          {
+            "Product": "Chair",
+            "UnitsSold": 10,
+            "Revenue": 1000,
+            "UserActivity": 300
+          }
+        ]
+      }
+    },
+    {
+      "Month": "October",
+      "Year": 2023,
+      "Category": {
+        "Electronics": [
+          {
+            "Product": "Smartphone",
+            "UnitsSold": 90,
+            "Revenue": 7000,
+            "UserActivity": 6000
+          },
+          {
+            "Product": "Tablet",
+            "UnitsSold": 60,
+            "Revenue": 5000,
+            "UserActivity": 1700
+          },
+          {
+            "Product": "Television",
+            "UnitsSold": 60,
+            "Revenue": 5000,
+            "UserActivity": 1500
+          },
+          {
+            "Product": "Headphones",
+            "UnitsSold": 50,
+            "Revenue": 4000,
+            "UserActivity": 1200
+          },
+          {
+            "Product": "Laptop",
+            "UnitsSold": 80,
+            "Revenue": 7000,
+            "UserActivity": 2100
+          }
+        ],
+        "Apparel": [
+          {
+            "Product": "Jeans",
+            "UnitsSold": 30,
+            "Revenue": 3000,
+            "UserActivity": 900
+          },
+          {
+            "Product": "T-Shirt",
+            "UnitsSold": 50,
+            "Revenue": 5000,
+            "UserActivity": 1500
+          },
+          {
+            "Product": "Dress",
+            "UnitsSold": 40,
+            "Revenue": 4000,
+            "UserActivity": 1200
+          },
+          {
+            "Product": "Sweater",
+            "UnitsSold": 20,
+            "Revenue": 2000,
+            "UserActivity": 600
+          },
+          {
+            "Product": "Jacket",
+            "UnitsSold": 15,
+            "Revenue": 1500,
+            "UserActivity": 450
+          }
+        ],
+        "HomeGarden": [
+          {
+            "Product": "Curtains",
+            "UnitsSold": 10,
+            "Revenue": 1000,
+            "UserActivity": 300
+          },
+          {
+            "Product": "Table",
+            "UnitsSold": 20,
+            "Revenue": 2000,
+            "UserActivity": 600
+          },
+          {
+            "Product": "Rug",
+            "UnitsSold": 15,
+            "Revenue": 1500,
+            "UserActivity": 450
+          },
+          {
+            "Product": "Lamp",
+            "UnitsSold": 20,
+            "Revenue": 2000,
+            "UserActivity": 600
+          },
+          {
+            "Product": "Chair",
+            "UnitsSold": 5,
+            "Revenue": 500,
+            "UserActivity": 150
+          }
+        ]
+      }
+    },
+    {
+      "Month": "September",
+      "Year": 2023,
+      "Category": {
+        "Electronics": [
+          {
+            "Product": "Smartphone",
+            "UnitsSold": 90,
+            "Revenue": 6000,
+            "UserActivity": 1000
+          },
+          {
+            "Product": "Tablet",
+            "UnitsSold": 60,
+            "Revenue": 5000,
+            "UserActivity": 1000
+          },
+          {
+            "Product": "Television",
+            "UnitsSold": 70,
+            "Revenue": 9000,
+            "UserActivity": 4000
+          },
+          {
+            "Product": "Headphones",
+            "UnitsSold": 100,
+            "Revenue": 9000,
+            "UserActivity": 5000
+          },
+          {
+            "Product": "Laptop",
+            "UnitsSold": 90,
+            "Revenue": 9000,
+            "UserActivity": 2000
+          }
+        ],
+        "Apparel": [
+          {
+            "Product": "Jeans",
+            "UnitsSold": 60,
+            "Revenue": 7000,
+            "UserActivity": 1000
+          },
+          {
+            "Product": "T-Shirt",
+            "UnitsSold": 80,
+            "Revenue": 9000,
+            "UserActivity": 1000
+          },
+          {
+            "Product": "Dress",
+            "UnitsSold": 80,
+            "Revenue": 9000,
+            "UserActivity": 4000
+          },
+          {
+            "Product": "Sweater",
+            "UnitsSold": 20,
+            "Revenue": 2500,
+            "UserActivity": 2000
+          },
+          {
+            "Product": "Jacket",
+            "UnitsSold": 100,
+            "Revenue": 10000,
+            "UserActivity": 1500
+          }
+        ],
+        "HomeGarden": [
+          {
+            "Product": "Curtains",
+            "UnitsSold": 10,
+            "Revenue": 1000,
+            "UserActivity": 1000
+          },
+          {
+            "Product": "Table",
+            "UnitsSold": 10,
+            "Revenue": 1000,
+            "UserActivity": 300
+          },
+          {
+            "Product": "Rug",
+            "UnitsSold": 8,
+            "Revenue": 800,
+            "UserActivity": 240
+          },
+          {
+            "Product": "Lamp",
+            "UnitsSold": 10,
+            "Revenue": 1000,
+            "UserActivity": 300
+          },
+          {
+            "Product": "Chair",
+            "UnitsSold": 3,
+            "Revenue": 300,
+            "UserActivity": 90
+          }
+        ]
+      }
+    },
+    {
+      "Month": "August",
+      "Year": 2023,
+      "Category": {
+        "Electronics": [
+          {
+            "Product": "Smartphone",
+            "UnitsSold": 60,
+            "Revenue": 4000,
+            "UserActivity": 1200
+          },
+          {
+            "Product": "Tablet",
+            "UnitsSold": 50,
+            "Revenue": 4000,
+            "UserActivity": 1400
+          },
+          {
+            "Product": "Television",
+            "UnitsSold": 40,
+            "Revenue": 3000,
+            "UserActivity": 900
+          },
+          {
+            "Product": "Headphones",
+            "UnitsSold": 40,
+            "Revenue": 2000,
+            "UserActivity": 600
+          },
+          {
+            "Product": "Laptop",
+            "UnitsSold": 60,
+            "Revenue": 5000,
+            "UserActivity": 1500
+          }
+        ],
+        "Apparel": [
+          {
+            "Product": "Jeans",
+            "UnitsSold": 15,
+            "Revenue": 1500,
+            "UserActivity": 450
+          },
+          {
+            "Product": "T-Shirt",
+            "UnitsSold": 30,
+            "Revenue": 3000,
+            "UserActivity": 900
+          },
+          {
+            "Product": "Dress",
+            "UnitsSold": 25,
+            "Revenue": 2500,
+            "UserActivity": 750
+          },
+          {
+            "Product": "Sweater",
+            "UnitsSold": 10,
+            "Revenue": 1000,
+            "UserActivity": 300
+          },
+          {
+            "Product": "Jacket",
+            "UnitsSold": 8,
+            "Revenue": 800,
+            "UserActivity": 240
+          }
+        ],
+        "HomeGarden": [
+          {
+            "Product": "Curtains",
+            "UnitsSold": 3,
+            "Revenue": 300,
+            "UserActivity": 90
+          },
+          {
+            "Product": "Table",
+            "UnitsSold": 7,
+            "Revenue": 700,
+            "UserActivity": 210
+          },
+          {
+            "Product": "Rug",
+            "UnitsSold": 5,
+            "Revenue": 500,
+            "UserActivity": 150
+          },
+          {
+            "Product": "Lamp",
+            "UnitsSold": 6,
+            "Revenue": 600,
+            "UserActivity": 180
+          },
+          {
+            "Product": "Chair",
+            "UnitsSold": 2,
+            "Revenue": 200,
+            "UserActivity": 60
+          }
+        ]
+      }
+    },
+    {
+      "Month": "July",
+      "Year": 2023,
+      "Category": {
+        "Electronics": [
+          {
+            "Product": "Smartphone",
+            "UnitsSold": 80,
+            "Revenue": 6000,
+            "UserActivity": 1800
+          },
+          {
+            "Product": "Tablet",
+            "UnitsSold": 60,
+            "Revenue": 4000,
+            "UserActivity": 1100
+          },
+          {
+            "Product": "Television",
+            "UnitsSold": 45,
+            "Revenue": 2500,
+            "UserActivity": 750
+          },
+          {
+            "Product": "Headphones",
+            "UnitsSold": 35,
+            "Revenue": 1500,
+            "UserActivity": 450
+          },
+          {
+            "Product": "Laptop",
+            "UnitsSold": 60,
+            "Revenue": 4000,
+            "UserActivity": 1200
+          }
+        ],
+        "Apparel": [
+          {
+            "Product": "Jeans",
+            "UnitsSold": 10,
+            "Revenue": 1000,
+            "UserActivity": 300
+          },
+          {
+            "Product": "T-Shirt",
+            "UnitsSold": 20,
+            "Revenue": 2000,
+            "UserActivity": 600
+          },
+          {
+            "Product": "Dress",
+            "UnitsSold": 15,
+            "Revenue": 1500,
+            "UserActivity": 450
+          },
+          {
+            "Product": "Sweater",
+            "UnitsSold": 5,
+            "Revenue": 500,
+            "UserActivity": 150
+          },
+          {
+            "Product": "Jacket",
+            "UnitsSold": 3,
+            "Revenue": 300,
+            "UserActivity": 90
+          }
+        ],
+        "HomeGarden": [
+          {
+            "Product": "Curtains",
+            "UnitsSold": 2,
+            "Revenue": 200,
+            "UserActivity": 60
+          },
+          {
+            "Product": "Table",
+            "UnitsSold": 5,
+            "Revenue": 500,
+            "UserActivity": 150
+          },
+          {
+            "Product": "Rug",
+            "UnitsSold": 3,
+            "Revenue": 300,
+            "UserActivity": 90
+          },
+          {
+            "Product": "Lamp",
+            "UnitsSold": 4,
+            "Revenue": 400,
+            "UserActivity": 120
+          },
+          {
+            "Product": "Chair",
+            "UnitsSold": 1,
+            "Revenue": 100,
+            "UserActivity": 30
+          }
+        ]
+      }
+    },
+    {
+      "Month": "June",
+      "Year": 2023,
+      "Category": {
+        "Electronics": [
+          {
+            "Product": "Smartphone",
+            "UnitsSold": 65,
+            "Revenue": 5700,
+            "UserActivity": 1650
+          },
+          {
+            "Product": "Tablet",
+            "UnitsSold": 70,
+            "Revenue": 7800,
+            "UserActivity": 2250
+          },
+          {
+            "Product": "Television",
+            "UnitsSold": 55,
+            "Revenue": 4800,
+            "UserActivity": 1350
+          },
+          {
+            "Product": "Headphones",
+            "UnitsSold": 40,
+            "Revenue": 3150,
+            "UserActivity": 900
+          },
+          {
+            "Product": "Laptop",
+            "UnitsSold": 60,
+            "Revenue": 6300,
+            "UserActivity": 1800
+          }
+        ],
+        "Apparel": [
+          {
+            "Product": "Jeans",
+            "UnitsSold": 15,
+            "Revenue": 1800,
+            "UserActivity": 525
+          },
+          {
+            "Product": "T-Shirt",
+            "UnitsSold": 22,
+            "Revenue": 2700,
+            "UserActivity": 750
+          },
+          {
+            "Product": "Dress",
+            "UnitsSold": 18,
+            "Revenue": 2250,
+            "UserActivity": 675
+          },
+          {
+            "Product": "Sweater",
+            "UnitsSold": 10,
+            "Revenue": 1125,
+            "UserActivity": 300
+          },
+          {
+            "Product": "Jacket",
+            "UnitsSold": 8,
+            "Revenue": 825,
+            "UserActivity": 225
+          }
+        ],
+        "HomeGarden": [
+          {
+            "Product": "Curtains",
+            "UnitsSold": 5,
+            "Revenue": 525,
+            "UserActivity": 150
+          },
+          {
+            "Product": "Table",
+            "UnitsSold": 9,
+            "Revenue": 1050,
+            "UserActivity": 300
+          },
+          {
+            "Product": "Rug",
+            "UnitsSold": 7,
+            "Revenue": 750,
+            "UserActivity": 225
+          },
+          {
+            "Product": "Lamp",
+            "UnitsSold": 6,
+            "Revenue": 825,
+            "UserActivity": 195
+          },
+          {
+            "Product": "Chair",
+            "UnitsSold": 3,
+            "Revenue": 375,
+            "UserActivity": 105
+          }
+        ]
+      }
+    },
+    {
+      "Month": "May",
+      "Year": 2023,
+      "Category": {
+        "Electronics": [
+          {
+            "Product": "Smartphone",
+            "UnitsSold": 105,
+            "Revenue": 4600,
+            "UserActivity": 1300
+          },
+          {
+            "Product": "Tablet",
+            "UnitsSold": 75,
+            "Revenue": 6800,
+            "UserActivity": 2000
+          },
+          {
+            "Product": "Television",
+            "UnitsSold": 70,
+            "Revenue": 3900,
+            "UserActivity": 1100
+          },
+          {
+            "Product": "Headphones",
+            "UnitsSold": 85,
+            "Revenue": 3200,
+            "UserActivity": 900
+          },
+          {
+            "Product": "Laptop",
+            "UnitsSold": 75,
+            "Revenue": 5400,
+            "UserActivity": 1500
+          }
+        ],
+        "Apparel": [
+          {
+            "Product": "Jeans",
+            "UnitsSold": 20,
+            "Revenue": 2400,
+            "UserActivity": 700
+          },
+          {
+            "Product": "T-Shirt",
+            "UnitsSold": 30,
+            "Revenue": 3600,
+            "UserActivity": 1000
+          },
+          {
+            "Product": "Dress",
+            "UnitsSold": 25,
+            "Revenue": 3150,
+            "UserActivity": 950
+          },
+          {
+            "Product": "Sweater",
+            "UnitsSold": 15,
+            "Revenue": 1875,
+            "UserActivity": 500
+          },
+          {
+            "Product": "Jacket",
+            "UnitsSold": 10,
+            "Revenue": 1375,
+            "UserActivity": 375
+          }
+        ],
+        "HomeGarden": [
+          {
+            "Product": "Curtains",
+            "UnitsSold": 7,
+            "Revenue": 875,
+            "UserActivity": 250
+          },
+          {
+            "Product": "Table",
+            "UnitsSold": 12,
+            "Revenue": 1500,
+            "UserActivity": 400
+          },
+          {
+            "Product": "Rug",
+            "UnitsSold": 10,
+            "Revenue": 1250,
+            "UserActivity": 375
+          },
+          {
+            "Product": "Lamp",
+            "UnitsSold": 8,
+            "Revenue": 1100,
+            "UserActivity": 260
+          },
+          {
+            "Product": "Chair",
+            "UnitsSold": 4,
+            "Revenue": 500,
+            "UserActivity": 140
+          }
+        ]
+      }
+    },
+    {
+      "Month": "April",
+      "Year": 2023,
+      "Category": {
+        "Electronics": [
+          {
+            "Product": "Smartphone",
+            "UnitsSold": 80,
+            "Revenue": 5200,
+            "UserActivity": 1500
+          },
+          {
+            "Product": "Tablet",
+            "UnitsSold": 70,
+            "Revenue": 7200,
+            "UserActivity": 2000
+          },
+          {
+            "Product": "Television",
+            "UnitsSold": 55,
+            "Revenue": 4200,
+            "UserActivity": 1200
+          },
+          {
+            "Product": "Headphones",
+            "UnitsSold": 50,
+            "Revenue": 3600,
+            "UserActivity": 1000
+          },
+          {
+            "Product": "Laptop",
+            "UnitsSold": 70,
+            "Revenue": 6000,
+            "UserActivity": 1700
+          }
+        ],
+        "Apparel": [
+          {
+            "Product": "Jeans",
+            "UnitsSold": 25,
+            "Revenue": 3000,
+            "UserActivity": 875
+          },
+          {
+            "Product": "T-Shirt",
+            "UnitsSold": 35,
+            "Revenue": 4200,
+            "UserActivity": 1150
+          },
+          {
+            "Product": "Dress",
+            "UnitsSold": 30,
+            "Revenue": 3750,
+            "UserActivity": 1125
+          },
+          {
+            "Product": "Sweater",
+            "UnitsSold": 20,
+            "Revenue": 2500,
+            "UserActivity": 700
+          },
+          {
+            "Product": "Jacket",
+            "UnitsSold": 15,
+            "Revenue": 1875,
+            "UserActivity": 500
+          }
+        ],
+        "HomeGarden": [
+          {
+            "Product": "Curtains",
+            "UnitsSold": 10,
+            "Revenue": 1250,
+            "UserActivity": 350
+          },
+          {
+            "Product": "Table",
+            "UnitsSold": 15,
+            "Revenue": 1875,
+            "UserActivity": 500
+          },
+          {
+            "Product": "Rug",
+            "UnitsSold": 12,
+            "Revenue": 1500,
+            "UserActivity": 450
+          },
+          {
+            "Product": "Lamp",
+            "UnitsSold": 10,
+            "Revenue": 1250,
+            "UserActivity": 300
+          },
+          {
+            "Product": "Chair",
+            "UnitsSold": 5,
+            "Revenue": 625,
+            "UserActivity": 175
+          }
+        ]
+      }
+    },
+    {
+      "Month": "March",
+      "Year": 2023,
+      "Category": {
+        "Electronics": [
+          {
+            "Product": "Smartphone",
+            "UnitsSold": 95,
+            "Revenue": 5400,
+            "UserActivity": 1600
+          },
+          {
+            "Product": "Tablet",
+            "UnitsSold": 85,
+            "Revenue": 7800,
+            "UserActivity": 2200
+          },
+          {
+            "Product": "Television",
+            "UnitsSold": 80,
+            "Revenue": 4800,
+            "UserActivity": 1400
+          },
+          {
+            "Product": "Headphones",
+            "UnitsSold": 45,
+            "Revenue": 4200,
+            "UserActivity": 1200
+          },
+          {
+            "Product": "Laptop",
+            "UnitsSold": 65,
+            "Revenue": 6600,
+            "UserActivity": 1900
+          }
+        ],
+        "Apparel": [
+          {
+            "Product": "Jeans",
+            "UnitsSold": 30,
+            "Revenue": 3600,
+            "UserActivity": 1050
+          },
+          {
+            "Product": "T-Shirt",
+            "UnitsSold": 40,
+            "Revenue": 4800,
+            "UserActivity": 1300
+          },
+          {
+            "Product": "Dress",
+            "UnitsSold": 35,
+            "Revenue": 4200,
+            "UserActivity": 1250
+          },
+          {
+            "Product": "Sweater",
+            "UnitsSold": 25,
+            "Revenue": 3000,
+            "UserActivity": 850
+          },
+          {
+            "Product": "Jacket",
+            "UnitsSold": 20,
+            "Revenue": 2400,
+            "UserActivity": 650
+          }
+        ],
+        "HomeGarden": [
+          {
+            "Product": "Curtains",
+            "UnitsSold": 12,
+            "Revenue": 1500,
+            "UserActivity": 400
+          },
+          {
+            "Product": "Table",
+            "UnitsSold": 18,
+            "Revenue": 2250,
+            "UserActivity": 600
+          },
+          {
+            "Product": "Rug",
+            "UnitsSold": 15,
+            "Revenue": 1875,
+            "UserActivity": 550
+          },
+          {
+            "Product": "Lamp",
+            "UnitsSold": 12,
+            "Revenue": 1500,
+            "UserActivity": 350
+          },
+          {
+            "Product": "Chair",
+            "UnitsSold": 6,
+            "Revenue": 750,
+            "UserActivity": 200
+          }
+        ]
+      }
+    },
+    {
+      "Month": "Febraury",
+      "Year": 2023,
+      "Category": {
+        "Electronics": [
+          {
+            "Product": "Smartphone",
+            "UnitsSold": 90,
+            "Revenue": 9000,
+            "UserActivity": 2200
+          },
+          {
+            "Product": "Tablet",
+            "UnitsSold": 60,
+            "Revenue": 7000,
+            "UserActivity": 1800
+          },
+          {
+            "Product": "Television",
+            "UnitsSold": 75,
+            "Revenue": 5400,
+            "UserActivity": 1600
+          },
+          {
+            "Product": "Headphones",
+            "UnitsSold": 60,
+            "Revenue": 4800,
+            "UserActivity": 1400
+          },
+          {
+            "Product": "Laptop",
+            "UnitsSold": 70,
+            "Revenue": 6400,
+            "UserActivity": 1700
+          }
+        ],
+        "Apparel": [
+          {
+            "Product": "Jeans",
+            "UnitsSold": 35,
+            "Revenue": 4200,
+            "UserActivity": 1225
+          },
+          {
+            "Product": "T-Shirt",
+            "UnitsSold": 50,
+            "Revenue": 6000,
+            "UserActivity": 1650
+          },
+          {
+            "Product": "Dress",
+            "UnitsSold": 45,
+            "Revenue": 5400,
+            "UserActivity": 1575
+          },
+          {
+            "Product": "Sweater",
+            "UnitsSold": 30,
+            "Revenue": 3600,
+            "UserActivity": 1050
+          },
+          {
+            "Product": "Jacket",
+            "UnitsSold": 25,
+            "Revenue": 3000,
+            "UserActivity": 825
+          }
+        ],
+        "HomeGarden": [
+          {
+            "Product": "Curtains",
+            "UnitsSold": 15,
+            "Revenue": 1800,
+            "UserActivity": 500
+          },
+          {
+            "Product": "Table",
+            "UnitsSold": 25,
+            "Revenue": 3000,
+            "UserActivity": 800
+          },
+          {
+            "Product": "Rug",
+            "UnitsSold": 20,
+            "Revenue": 2400,
+            "UserActivity": 700
+          },
+          {
+            "Product": "Lamp",
+            "UnitsSold": 15,
+            "Revenue": 1800,
+            "UserActivity": 425
+          },
+          {
+            "Product": "Chair",
+            "UnitsSold": 8,
+            "Revenue": 960,
+            "UserActivity": 260
+          }
+        ]
+      }
+    },
+    {
+      "Month": "January",
+      "Year": 2023,
+      "Category": {
+        "Electronics": [
+          {
+            "Product": "Smartphone",
+            "UnitsSold": 100,
+            "Revenue": 8400,
+            "UserActivity": 2700
+          },
+          {
+            "Product": "Tablet",
+            "UnitsSold": 80,
+            "Revenue": 5000,
+            "UserActivity": 2000
+          },
+          {
+            "Product": "Television",
+            "UnitsSold": 70,
+            "Revenue": 6000,
+            "UserActivity": 1750
+          },
+          {
+            "Product": "Headphones",
+            "UnitsSold": 75,
+            "Revenue": 5400,
+            "UserActivity": 1575
+          },
+          {
+            "Product": "Laptop",
+            "UnitsSold": 80,
+            "Revenue": 7000,
+            "UserActivity": 2000
+          }
+        ],
+        "Apparel": [
+          {
+            "Product": "Jeans",
+            "UnitsSold": 50,
+            "Revenue": 6000,
+            "UserActivity": 1750
+          },
+          {
+            "Product": "T-Shirt",
+            "UnitsSold": 70,
+            "Revenue": 8400,
+            "UserActivity": 2450
+          },
+          {
+            "Product": "Dress",
+            "UnitsSold": 60,
+            "Revenue": 7200,
+            "UserActivity": 2100
+          },
+          {
+            "Product": "Sweater",
+            "UnitsSold": 40,
+            "Revenue": 4800,
+            "UserActivity": 1400
+          },
+          {
+            "Product": "Jacket",
+            "UnitsSold": 35,
+            "Revenue": 420,
+            "UserActivity": 1225
+          }
+        ],
+        "HomeGarden": [
+          {
+            "Product": "Curtains",
+            "UnitsSold": 20,
+            "Revenue": 2400,
+            "UserActivity": 700
+          },
+          {
+            "Product": "Table",
+            "UnitsSold": 30,
+            "Revenue": 360,
+            "UserActivity": 1050
+          },
+          {
+            "Product": "Rug",
+            "UnitsSold": 25,
+            "Revenue": 300,
+            "UserActivity": 875
+          },
+          {
+            "Product": "Lamp",
+            "UnitsSold": 20,
+            "Revenue": 240,
+            "UserActivity": 600
+          },
+          {
+            "Product": "Chair",
+            "UnitsSold": 10,
+            "Revenue": 120,
+            "UserActivity": 350
+          }
+        ]
+      }
+    }
+  ]
+}
