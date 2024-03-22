@@ -51,7 +51,11 @@ const BarChart = () => {
           <option value="12">last 12 months</option>
         </Select>
       </div>
-      <Bar data={categoryData} options={options} />
+      {categoryData.labels ? (
+        <Bar data={categoryData} options={options} />
+      ) : (
+        <></>
+      )}
     </Box>
   );
 };

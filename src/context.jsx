@@ -2,26 +2,7 @@ import React, { createContext, useEffect, useState } from "react";
 
 export const MyContext = createContext();
 
-let categoryData = {
-  labels: ["01", "02", "03", "04", "05"],
-  datasets: [
-    {
-      label: "Electronics",
-      data: [20, 50, 40, 70, 10],
-      backgroundColor: "rgba(255, 99, 132, 0.5)",
-    },
-    {
-      label: "Apparel",
-      data: [15, 5, 8, 30, 10],
-      backgroundColor: "rgba(54, 162, 235, 0.5)",
-    },
-    {
-      label: "Home & Garden",
-      data: [5, 3, 4, 6, 1],
-      backgroundColor: "rgba(75, 192, 192, 0.5)",
-    },
-  ],
-};
+let categoryData = {};
 
 let productData = {};
 let totalData = {};
@@ -37,9 +18,13 @@ export const ContextProvider = ({ children }) => {
   useEffect(() => {
     const getData = async () => {
       try {
-        let res = await fetch("http://localhost:8000/ecommerceMetrics");
+        let res = await fetch(
+          "https://mock-server6-f9a6.onrender.com/ecommerceMetrics"
+        );
 
         let data = await res.json();
+
+        console.log(data);
 
         let arr = data.filter((ele) => {
           return ele.Year == year;
@@ -100,7 +85,9 @@ export const ContextProvider = ({ children }) => {
   useEffect(() => {
     const getData = async () => {
       try {
-        let res = await fetch("http://localhost:8000/ecommerceMetrics");
+        let res = await fetch(
+          "https://mock-server6-f9a6.onrender.com/ecommerceMetrics"
+        );
 
         let data = await res.json();
         let arr = data;
@@ -164,7 +151,9 @@ export const ContextProvider = ({ children }) => {
   useEffect(() => {
     const getData = async () => {
       try {
-        let res = await fetch("http://localhost:8000/ecommerceMetrics");
+        let res = await fetch(
+          "https://mock-server6-f9a6.onrender.com/ecommerceMetrics"
+        );
 
         let data = await res.json();
         let arr = data;
